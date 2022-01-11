@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.t {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
